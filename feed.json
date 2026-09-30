@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CĐ NVHXLT",
+    "description": "",
+    "home_page_url": "https://simplenez.github.io/cdnvhxlt",
+    "feed_url": "https://simplenez.github.io/cdnvhxlt/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Admin"
+    },
+    "items": [
+        {
+            "id": "https://simplenez.github.io/cdnvhxlt/post-2.html",
+            "url": "https://simplenez.github.io/cdnvhxlt/post-2.html",
+            "title": "Lễ các Thánh Tử đạo Việt Nam",
+            "summary": "test post 2",
+            "content_html": "<p>test post 2</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-26T15:56:09-04:00",
+            "date_modified": "2026-09-26T16:19:29-04:00"
+        },
+        {
+            "id": "https://simplenez.github.io/cdnvhxlt/page-test-1.html",
+            "url": "https://simplenez.github.io/cdnvhxlt/page-test-1.html",
+            "title": "Lễ Đức Mẹ Hồn Xác Lên Trời",
+            "summary": "Some content to test the page. Swapping to a new theme after you get bored with your current one is super-easy; just open the Site Settings screen again and choose your new theme from the Install and Use section of the Current Theme option. If&hellip;",
+            "content_html": "<p>Some content to test the page.  Swapping to a new theme after you get bored with your current one is super-easy; just open the <strong>Site Settings</strong> screen again and choose your new theme from the <strong>Install and Use</strong> section of the <strong>Current Theme </strong>option. If you want to try out a completely new theme, you may use the Publii Theme Marketplace to download and install a new theme; this will then appear in the <strong>Install and Use </strong>section of the <strong>Current Theme</strong> section. If you've already switched between multiple themes on your current site you'll notice that all your previously-installed themes appear under a separate <strong>Use</strong> heading; this allows for quick switching between installed themes without the need to copy the files across again.</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-26T10:41:09-04:00",
+            "date_modified": "2026-09-26T16:19:33-04:00"
+        }
+    ]
+}

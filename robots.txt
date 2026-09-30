@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://simplenez.github.io/cdnvhxlt/sitemap.xml
