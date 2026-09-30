@@ -3,12 +3,89 @@
     <title>CĐ NVHXLT</title>
     <link href="https://simplenez.github.io/cdnvhxlt/feed.xml" rel="self" />
     <link href="https://simplenez.github.io/cdnvhxlt" />
-    <updated>2026-09-26T16:19:33-04:00</updated>
+    <updated>2026-09-29T23:48:20-04:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://simplenez.github.io/cdnvhxlt</id>
 
+    <entry>
+        <title>Hình Các Thánh Tử Đạo Việt Nam</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://simplenez.github.io/cdnvhxlt/hinh-cac-thanh-tu-dao-viet-nam.html"/>
+        <id>https://simplenez.github.io/cdnvhxlt/hinh-cac-thanh-tu-dao-viet-nam.html</id>
+            <category term="Hình Ảnh"/>
+
+        <updated>2026-09-29T23:33:04-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>Add a "read more" break like below to only display the text above like this.  Otherwise, the caption from the images will be in the summary here.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Add a "read more" break like below to only display the text above like this.  Otherwise, the caption from the images will be in the summary here.</p>
+
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao.jpg" data-size="250x180"><img loading="lazy" src="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao-thumbnail.jpg" alt="" width="250" height="180"></a>
+<figcaption>Caption pic 1</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_4.jpg" data-size="250x382"><img loading="lazy" src="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_4-thumbnail.jpg" alt="" width="250" height="382"></a>
+<figcaption>Caption pic 2 with some long text to test wrapping to the next line.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_3.jpg" data-size="596x335"><img loading="lazy" src="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_3-thumbnail.jpg" alt="no caption on this one" width="596" height="335"></a></figure>
+<figure class="gallery__item"><a href="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao_chinh_toa.png" data-size="330x245"><img loading="lazy" src="https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao_chinh_toa-thumbnail.png" alt="" width="330" height="245"></a>
+<figcaption>Caption pic 4</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hình Picnic 2025</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://simplenez.github.io/cdnvhxlt/test-picture-2.html"/>
+        <id>https://simplenez.github.io/cdnvhxlt/test-picture-2.html</id>
+            <category term="Hình Ảnh"/>
+
+        <updated>2026-09-29T23:31:21-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    not featured picture 2 post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>not featured picture 2 post</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hình Picnic 2024</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://simplenez.github.io/cdnvhxlt/post-not-featured.html"/>
+        <id>https://simplenez.github.io/cdnvhxlt/post-not-featured.html</id>
+            <category term="Hình Ảnh"/>
+
+        <updated>2026-09-29T23:21:25-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    pictures not featured
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>pictures not featured</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lễ các Thánh Tử đạo Việt Nam</title>
         <author>
@@ -20,12 +97,12 @@
         <updated>2026-09-26T15:56:09-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    test post 2
+                    Các thánh tử đạo Việt Nam là danh sách những tín hữu Công giáo người Việt hoặc thừa sai ngoại quốc được Giáo hội Công giáo Rôma tuyên thánh với lý do tử đạo. Trong lịch sử Công giáo tại Việt Nam, ước tính có&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test post 2</p>
+                <p>Các thánh tử đạo Việt Nam là danh sách những tín hữu Công giáo người Việt hoặc thừa sai ngoại quốc được Giáo hội Công giáo Rôma tuyên thánh với lý do tử đạo. Trong lịch sử Công giáo tại Việt Nam, ước tính có đến hàng trăm ngàn người đã tử vì đạo để làm chứng cho đức tin Kitô giáo. Trong số đó có 117 người đã được Giáo hoàng Gioan Phaolô II tuyên Thánh vào ngày 19 tháng 6 năm 1988.<br><br>Lễ kính chung cho các Thánh tử đạo Việt Nam là ngày 24 tháng 11, được Giáo hội Công giáo khắp thế giới cử hành với bậc lễ theo Lịch Chung Rôma là lễ nhớ. Riêng Giáo hội Việt Nam còn cử hành lễ kính trọng thể vào Chúa nhật giữa tháng 11, trước lễ Chúa Kitô Vua. Trước đây, lễ kính các chân phước tử đạo Việt Nam được cử hành vào chủ nhật đầu tiên của tháng 9.</p>
             ]]>
         </content>
     </entry>
@@ -45,7 +122,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Some content to test the page.  Swapping to a new theme after you get bored with your current one is super-easy; just open the <strong>Site Settings</strong> screen again and choose your new theme from the <strong>Install and Use</strong> section of the <strong>Current Theme </strong>option. If you want to try out a completely new theme, you may use the Publii Theme Marketplace to download and install a new theme; this will then appear in the <strong>Install and Use </strong>section of the <strong>Current Theme</strong> section. If you've already switched between multiple themes on your current site you'll notice that all your previously-installed themes appear under a separate <strong>Use</strong> heading; this allows for quick switching between installed themes without the need to copy the files across again.</p>
+                <p>Some content to test the page.  Swapping to a new theme after you get bored with your current one is super-easy; just open the <strong>Site Settings</strong> screen again and choose your new theme from the <strong>Install and Use</strong> section of the <strong>Current Theme </strong>option.</p>
+<p>If you want to try out a completely new theme, you may use the Publii Theme Marketplace to download and install a new theme; this will then appear in the <strong>Install and Use </strong>section of the <strong>Current Theme</strong> section. If you've already switched between multiple themes on your current site you'll notice that all your previously-installed themes appear under a separate <strong>Use</strong> heading; this allows for quick switching between installed themes without the need to copy the files across again.</p>
             ]]>
         </content>
     </entry>

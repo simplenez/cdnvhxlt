@@ -10,32 +10,77 @@
     },
     "items": [
         {
+            "id": "https://simplenez.github.io/cdnvhxlt/hinh-cac-thanh-tu-dao-viet-nam.html",
+            "url": "https://simplenez.github.io/cdnvhxlt/hinh-cac-thanh-tu-dao-viet-nam.html",
+            "title": "Hình Các Thánh Tử Đạo Việt Nam",
+            "summary": "<p>Add a \"read more\" break like below to only display the text above like this.  Otherwise, the caption from the images will be in the summary here.</p>\n",
+            "content_html": "<p>Add a \"read more\" break like below to only display the text above like this.  Otherwise, the caption from the images will be in the summary here.</p>\n\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao.jpg\" data-size=\"250x180\"><img loading=\"lazy\" src=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao-thumbnail.jpg\" alt=\"\" width=\"250\" height=\"180\"></a>\n<figcaption>Caption pic 1</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_4.jpg\" data-size=\"250x382\"><img loading=\"lazy\" src=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_4-thumbnail.jpg\" alt=\"\" width=\"250\" height=\"382\"></a>\n<figcaption>Caption pic 2 with some long text to test wrapping to the next line.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_3.jpg\" data-size=\"596x335\"><img loading=\"lazy\" src=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/tu_dao_3-thumbnail.jpg\" alt=\"no caption on this one\" width=\"596\" height=\"335\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao_chinh_toa.png\" data-size=\"330x245\"><img loading=\"lazy\" src=\"https://simplenez.github.io/cdnvhxlt/media/posts/7/gallery/thanh_tu_dao_chinh_toa-thumbnail.png\" alt=\"\" width=\"330\" height=\"245\"></a>\n<figcaption>Caption pic 4</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Hình Ảnh"
+            ],
+            "date_published": "2026-09-29T23:33:04-04:00",
+            "date_modified": "2026-09-29T23:48:20-04:00"
+        },
+        {
+            "id": "https://simplenez.github.io/cdnvhxlt/test-picture-2.html",
+            "url": "https://simplenez.github.io/cdnvhxlt/test-picture-2.html",
+            "title": "Hình Picnic 2025",
+            "summary": "not featured picture 2 post",
+            "content_html": "<p>not featured picture 2 post</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Hình Ảnh"
+            ],
+            "date_published": "2026-09-29T23:31:21-04:00",
+            "date_modified": "2026-09-29T23:32:13-04:00"
+        },
+        {
+            "id": "https://simplenez.github.io/cdnvhxlt/post-not-featured.html",
+            "url": "https://simplenez.github.io/cdnvhxlt/post-not-featured.html",
+            "title": "Hình Picnic 2024",
+            "summary": "pictures not featured",
+            "content_html": "<p>pictures not featured</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Hình Ảnh"
+            ],
+            "date_published": "2026-09-29T23:21:25-04:00",
+            "date_modified": "2026-09-29T23:32:00-04:00"
+        },
+        {
             "id": "https://simplenez.github.io/cdnvhxlt/post-2.html",
             "url": "https://simplenez.github.io/cdnvhxlt/post-2.html",
             "title": "Lễ các Thánh Tử đạo Việt Nam",
-            "summary": "test post 2",
-            "content_html": "<p>test post 2</p>",
+            "summary": "Các thánh tử đạo Việt Nam là danh sách những tín hữu Công giáo người Việt hoặc thừa sai ngoại quốc được Giáo hội Công giáo Rôma tuyên thánh với lý do tử đạo. Trong lịch sử Công giáo tại Việt Nam, ước tính có&hellip;",
+            "content_html": "<p>Các thánh tử đạo Việt Nam là danh sách những tín hữu Công giáo người Việt hoặc thừa sai ngoại quốc được Giáo hội Công giáo Rôma tuyên thánh với lý do tử đạo. Trong lịch sử Công giáo tại Việt Nam, ước tính có đến hàng trăm ngàn người đã tử vì đạo để làm chứng cho đức tin Kitô giáo. Trong số đó có 117 người đã được Giáo hoàng Gioan Phaolô II tuyên Thánh vào ngày 19 tháng 6 năm 1988.<br><br>Lễ kính chung cho các Thánh tử đạo Việt Nam là ngày 24 tháng 11, được Giáo hội Công giáo khắp thế giới cử hành với bậc lễ theo Lịch Chung Rôma là lễ nhớ. Riêng Giáo hội Việt Nam còn cử hành lễ kính trọng thể vào Chúa nhật giữa tháng 11, trước lễ Chúa Kitô Vua. Trước đây, lễ kính các chân phước tử đạo Việt Nam được cử hành vào chủ nhật đầu tiên của tháng 9.</p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2026-09-26T15:56:09-04:00",
-            "date_modified": "2026-09-26T16:19:29-04:00"
+            "date_modified": "2026-09-29T23:01:09-04:00"
         },
         {
             "id": "https://simplenez.github.io/cdnvhxlt/page-test-1.html",
             "url": "https://simplenez.github.io/cdnvhxlt/page-test-1.html",
             "title": "Lễ Đức Mẹ Hồn Xác Lên Trời",
             "summary": "Some content to test the page. Swapping to a new theme after you get bored with your current one is super-easy; just open the Site Settings screen again and choose your new theme from the Install and Use section of the Current Theme option. If&hellip;",
-            "content_html": "<p>Some content to test the page.  Swapping to a new theme after you get bored with your current one is super-easy; just open the <strong>Site Settings</strong> screen again and choose your new theme from the <strong>Install and Use</strong> section of the <strong>Current Theme </strong>option. If you want to try out a completely new theme, you may use the Publii Theme Marketplace to download and install a new theme; this will then appear in the <strong>Install and Use </strong>section of the <strong>Current Theme</strong> section. If you've already switched between multiple themes on your current site you'll notice that all your previously-installed themes appear under a separate <strong>Use</strong> heading; this allows for quick switching between installed themes without the need to copy the files across again.</p>",
+            "content_html": "<p>Some content to test the page.  Swapping to a new theme after you get bored with your current one is super-easy; just open the <strong>Site Settings</strong> screen again and choose your new theme from the <strong>Install and Use</strong> section of the <strong>Current Theme </strong>option.</p>\n<p>If you want to try out a completely new theme, you may use the Publii Theme Marketplace to download and install a new theme; this will then appear in the <strong>Install and Use </strong>section of the <strong>Current Theme</strong> section. If you've already switched between multiple themes on your current site you'll notice that all your previously-installed themes appear under a separate <strong>Use</strong> heading; this allows for quick switching between installed themes without the need to copy the files across again.</p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2026-09-26T10:41:09-04:00",
-            "date_modified": "2026-09-26T16:19:33-04:00"
+            "date_modified": "2026-09-29T23:00:21-04:00"
         }
     ]
 }
